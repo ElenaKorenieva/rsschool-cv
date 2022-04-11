@@ -1,2 +1,1 @@
-# rsschool-cv
-Elena's Korenieva CV
+https://elenakorenieva.github.io/rsschool-cv/
