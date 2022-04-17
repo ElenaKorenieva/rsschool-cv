@@ -1,3 +1,1 @@
-# rsschool-cv
-Elena's Korenieva CV
-link
+https://elenakorenieva.github.io/rsschool-cv/
