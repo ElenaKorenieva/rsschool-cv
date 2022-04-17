@@ -308,3 +308,34 @@ body {
 .education-divider2 {
     color: #000000;
 }
+
+
+.footer-block {
+    color: #a8a8a8;
+    margin-top: 48px;
+    text-align: center;
+}
+
+.footer-link {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;  
+    color: #616770;
+    margin-bottom: 12px;
+    display: block;
+    text-align: center;
+}
+
+.year-of-creation {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;  
+    color: #616770;
+    margin-bottom: 12px;
+    text-align: center;
+}
+
+.rsschool-image {
+    margin-top: 12px;
+    text-align: right;
+}
